@@ -1,40 +1,61 @@
 {
-  "basics": {
-    "name": "Joseph Friedman",
-    "label": "Software Engineer & Educator",
-    "email": "hello@decentgradient.com",
-    "summary": "Specializing in Machine Learning, Open Source, and STEM Education.",
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "DecentGradient",
-        "url": "https://github.com/DecentGradient"
-      },
-      {
-        "network": "Twitter",
-        "username": "DecentGradient",
-        "url": "https://twitter.com/DecentGradient"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "STEM Teacher",
-      "position": "Educator",
-      "startDate": "Present",
-      "summary": "Teaching Engineering & CS concepts."
+    "basics": {
+        "name": "Joseph Friedman",
+        "label": "Software Engineer & Educator",
+        "email": "hello@decentgradient.com",
+        "phone": "",
+        "summary": "Specializing in Machine Learning, Open Source, and STEM Education.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "DecentGradient",
+                "url": "https://github.com/DecentGradient"
+            },
+            {
+                "network": "Twitter",
+                "username": "DecentGradient",
+                "url": "https://twitter.com/DecentGradient"
+            }
+        ]
     },
-    {
-      "name": "Google",
-      "position": "Software Engineer",
-      "startDate": "Former",
-      "summary": "Worked on scalable infrastructure and systems."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Machine Learning",
-      "keywords": ["Python", "TensorFlow", "Keras", "Google Colab"]
-    }
-  ]
+    "work": [
+        {
+            "company": "STEM Teacher",
+            "position": "Educator",
+            "website": "",
+            "startDate": "2023-01-01",
+            "endDate": "Present",
+            "summary": "Teaching Engineering & CS concepts.",
+            "highlights": []
+        },
+        {
+            "company": "Google",
+            "position": "Software Engineer",
+            "website": "",
+            "startDate": "2018-01-01",
+            "endDate": "2022-12-31",
+            "summary": "Worked on scalable infrastructure and systems.",
+            "highlights": []
+        }
+    ],
+    "education": [],
+    "skills": [
+        {
+            "name": "Machine Learning",
+            "level": "Expert",
+            "keywords": [
+                "Python",
+                "TensorFlow",
+                "Keras",
+                "Google Colab"
+            ]
+        }
+    ]
 }
