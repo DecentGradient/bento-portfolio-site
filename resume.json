@@ -1,45 +1,61 @@
 {
-  "basics": {
-    "name": "Jane Doe",
-    "label": "Full Stack Engineer",
-    "email": "jane@example.com",
-    "summary": "Building scalable systems & interactive experiences.",
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "janedoe",
-        "url": "https://github.com/janedoe"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "janedoe",
-        "url": "https://linkedin.com/in/janedoe"
-      }
+    "basics": {
+        "name": "Joseph Friedman",
+        "label": "Software Engineer & Educator",
+        "email": "hello@decentgradient.com",
+        "phone": "",
+        "summary": "Specializing in Machine Learning, Open Source, and STEM Education.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "DecentGradient",
+                "url": "https://github.com/DecentGradient"
+            },
+            {
+                "network": "Twitter",
+                "username": "DecentGradient",
+                "url": "https://twitter.com/DecentGradient"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "STEM Teacher",
+            "position": "Educator",
+            "website": "",
+            "startDate": "2023-01-01",
+            "endDate": "Present",
+            "summary": "Teaching Engineering & CS concepts.",
+            "highlights": []
+        },
+        {
+            "company": "Google",
+            "position": "Software Engineer",
+            "website": "",
+            "startDate": "2018-01-01",
+            "endDate": "2022-12-31",
+            "summary": "Worked on scalable infrastructure and systems.",
+            "highlights": []
+        }
+    ],
+    "education": [],
+    "skills": [
+        {
+            "name": "Machine Learning",
+            "level": "Expert",
+            "keywords": [
+                "Python",
+                "TensorFlow",
+                "Keras",
+                "Google Colab"
+            ]
+        }
     ]
-  },
-  "work": [
-    {
-      "name": "TechCorp",
-      "position": "Senior Engineer",
-      "startDate": "2022-01-01",
-      "summary": "Leading backend migration to Go."
-    },
-    {
-      "name": "StartupInc",
-      "position": "Software Engineer",
-      "startDate": "2020-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Full stack development with MERN."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "keywords": ["React", "Node.js", "TypeScript"]
-    },
-    {
-      "name": "DevOps",
-      "keywords": ["AWS", "Docker", "CI/CD"]
-    }
-  ]
 }
