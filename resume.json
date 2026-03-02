@@ -1,45 +1,40 @@
 {
   "basics": {
-    "name": "Jane Doe",
-    "label": "Full Stack Engineer",
-    "email": "jane@example.com",
-    "summary": "Building scalable systems & interactive experiences.",
+    "name": "Joseph Friedman",
+    "label": "Software Engineer & Educator",
+    "email": "hello@decentgradient.com",
+    "summary": "Specializing in Machine Learning, Open Source, and STEM Education.",
     "profiles": [
       {
         "network": "GitHub",
-        "username": "janedoe",
-        "url": "https://github.com/janedoe"
+        "username": "DecentGradient",
+        "url": "https://github.com/DecentGradient"
       },
       {
-        "network": "LinkedIn",
-        "username": "janedoe",
-        "url": "https://linkedin.com/in/janedoe"
+        "network": "Twitter",
+        "username": "DecentGradient",
+        "url": "https://twitter.com/DecentGradient"
       }
     ]
   },
   "work": [
     {
-      "name": "TechCorp",
-      "position": "Senior Engineer",
-      "startDate": "2022-01-01",
-      "summary": "Leading backend migration to Go."
+      "name": "STEM Teacher",
+      "position": "Educator",
+      "startDate": "Present",
+      "summary": "Teaching Engineering & CS concepts."
     },
     {
-      "name": "StartupInc",
+      "name": "Google",
       "position": "Software Engineer",
-      "startDate": "2020-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Full stack development with MERN."
+      "startDate": "Former",
+      "summary": "Worked on scalable infrastructure and systems."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "keywords": ["React", "Node.js", "TypeScript"]
-    },
-    {
-      "name": "DevOps",
-      "keywords": ["AWS", "Docker", "CI/CD"]
+      "name": "Machine Learning",
+      "keywords": ["Python", "TensorFlow", "Keras", "Google Colab"]
     }
   ]
 }
